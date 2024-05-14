@@ -1,0 +1,6 @@
+{
+  "numberOfPlayers": 2,
+  "numberOfBoxes": 3,
+  "singleplayer": true,
+  "level": 3
+}
