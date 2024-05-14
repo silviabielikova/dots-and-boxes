@@ -1,3 +1,8 @@
+Dots And Boxes game from 2021
+
+
+Original README from 2021, submitted as a project for Programming 1 and later for Programming 2 with a new Singleplayer mode (playing against computer).
+
 Dots and Boxes
 ZIMNÝ SEMESTER:
 Na môj semestrálny projekt som si vybrala hru zo zoznamu, ktorý ste zverejnili na inšpiráciu -- Dots and Boxes, využila som jej pôvodné pravidlá dostupné na https://en.wikipedia.org/wiki/Dots_and_Boxes.
@@ -14,6 +19,3 @@ V hre som opravila nedokonalosti z minulého semestra, pridala som RESET a PLAY 
 Hlavná nová zložka je "umelá inteligencia" protihráča, ktorá funguje v troch leveloch náročnosti. V prvom leveli, najjednodchšom, fiktívny protihráč vykonáva úplne náhodné ťahy. V druhom leveli skóruje vždy, keď je to možné, a zámerne sa vyhýba preňho nebezbečným ťahom, ktorými by následne uspel jeho protihráč. Náhodné ťahy zvolí, iba ak nemá inú možnosť. Tretí level je nadstavba druhého, no stratový ťah vyberá pomocou backtrackingu - rozhodne sa pre najmenej výhodný pre svojho protihráča.
 Hra je nastavená tak, aby aj v treťom leveli pre bežného hráča existovala možnosť vyhrať aj prehrať.
 S novým singleplayer módom súvisí aj viacero počiatočných nastavení na výber pre hráča, ktoré sú rozdelené na dve nadväzujúce obrazovky. Zostala aj možnosť importovať svoje posledné nastavenia.
-
---
-Silvia Bieliková
