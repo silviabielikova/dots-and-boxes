@@ -1,7 +1,7 @@
-Dots And Boxes game from 2021
+Dots And Boxes game from 2021/2022
 
 
-Original README from 2021, submitted as a project for Programming 1 and later for Programming 2 with a new Singleplayer mode (playing against computer).
+Original README from 2021, submitted as a project for Programming 1 and later for Programming 2 with a new Singleplayer mode (playing against computer):
 
 Dots and Boxes
 ZIMNÝ SEMESTER:
